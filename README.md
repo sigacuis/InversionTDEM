@@ -6,10 +6,10 @@ Este repositorio contiene un script para la lectura de archivos USF generados po
 ## Instalación de librerías
 Para ejecutar el notebook "InversiónTDEM", necesitas tener instalados los siguientes paquetes:
 
-simpeg==0.23.0
-pygimli==1.5.0
-numpy==2.0.1
-matplotlib==3.10.0
+* simpeg==0.23.0
+* pygimli==1.5.0
+* numpy==2.0.1
+* matplotlib==3.10.0
 
 ## Cómo citar el repositorio
 "Los autores le agradecen al Semillero de Investigación en Geofísica Aplicada y Computacional (SIGAC) de la Universidad Industrial de Santander por proporcionar el script para la lectura e inversión de los datos del equipo walkTEM usados en este trabajo, el cual está protegido bajo una licencia de acceso libre y se encuentran publicados en el link de GitHub: https://github.com/sigacuis/InversionTDEM."
